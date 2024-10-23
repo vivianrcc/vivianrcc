@@ -1,8 +1,8 @@
-# Hi, I'm Vivian Cuentas 😺
+# Hi, I'm Vivian Cuentas 🌷✨
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador Vivian">
 
-Sou uma desenvolvedora front-end e estou começando a explorar o back-end. Estou sempre explorando novas ferramentas e linguagens para aprimorar minhas habilidades. Aqui, você encontrará alguns dos meus projetos mais recentes. Sinta-se à vontade para explorar e vamos criar algo incrível juntos!
+Sou uma desenvolvedora front-end e estou começando a explorar o back-end. Estou sempre explorando novas ferramentas e linguagens para aprimorar minhas habilidades. Aqui, você encontrará alguns dos meus projetos mais recentes. Sinta-se à vontade para explorar!
 
 🔗 [LinkedIn](https://www.linkedin.com/in/vivianrc_c) | [GitHub](https://github.com/vivianrcc)
 
