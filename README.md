@@ -12,7 +12,7 @@ Sou uma desenvolvedora front-end  e me aventurando no backend, amo cachorinhos e
 
 ## 🐾 About Meow
 
-<img align="left" src="https://cataas.com/cat/cute" alt="Random cat image" width="300px"/>
+<img align="left" src="https://tenor.com/pt-BR/view/cat-gif-26024704" alt="Random cat image" width="300px"/>
 
 Além de código, adoro gatos e tudo que envolve essas adoráveis criaturas peludas. Eles me inspiram com sua curiosidade, e assim como eles, estou sempre pronta para aprender algo novo e me aventurar em diferentes tecnologias. Você verá muitas referências felinas por aqui! 🐾
 
