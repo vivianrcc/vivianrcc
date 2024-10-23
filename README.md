@@ -1,22 +1,43 @@
-# HI I'M  VIVIAN CUENTAS ❤️
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+# Hi, I'm Vivian Cuentas 😺
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador Vivian">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=WELCOME!+BIENVENIDOS!+BEM-VINDOS!:%29)](https://git.io/typing-svg)
+Sou uma desenvolvedora front-end  e me aventurando no backend, amo cachorinhos e  gatos! 🐱💻. Assim como um gato, sou curiosa e estou sempre explorando novas ferramentas e linguagens para aprimorar minhas habilidades. Aqui, você encontrará alguns dos meus projetos mais recentes. Sinta-se à vontade para explorar e vamos criar algo incrível juntos! 
 
- <p> </p>
-<div style="display: inline_block"><br>
-<img align="center" alt="Vivi-Js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-<img align="center" alt="Vivi-Git" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+🔗 [LinkedIn](https://www.linkedin.com/in/vivianrc_c) | [GitHub](https://github.com/vivianrcc) | 
 
-<img align="center" alt="Vivi-HTML" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;Let's+build+something+purr-fect!)](https://git.io/typing-svg)
+
+---
+
+## 🐾 About Meow
+
+<img align="left" src="https://cataas.com/cat/cute" alt="Random cat image" width="300px"/>
+
+Além de código, adoro gatos e tudo que envolve essas adoráveis criaturas peludas. Eles me inspiram com sua curiosidade, e assim como eles, estou sempre pronta para aprender algo novo e me aventurar em diferentes tecnologias. Você verá muitas referências felinas por aqui! 🐾
+
+<br clear="left"/>
+
+## 🚀 Technologies & Tools
+
+<img align="center" alt="Vivi-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+<img align="center" alt="Vivi-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="center" alt="Vivi-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="center" alt="Vivi-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
+---
 
-    
+## 🐱 Featured Projects
+- [Project 1](https://github.com/username/project1): Breve descrição do projeto com toque de criatividade felina 🐾
+- [Project 2](https://github.com/username/project2): Outro projeto com o charme dos gatos 🐱
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivianrcc&theme=dark&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+### GitHub Stats 🐾
+![Vivian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivianrcc&show_icons=true&theme=radical)
 
-<a href="https://www.instagram.com/vivianrc_c" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivianrcc&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+✨ *Obrigado por visitar meu perfil! Me chama para conversarmos sobre código... ou gatos! 😻* ✨
+
 
