@@ -6,7 +6,7 @@
 
 🔗 [LinkedIn](https://www.linkedin.com/in/vivianrc_c) | [GitHub](https://github.com/vivianrcc)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;Let's+build+something+great!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;Let's+build+something+purr-fect!)](https://git.io/typing-svg)
 
 ---
 <br/>
