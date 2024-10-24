@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador Vivian">
 
-*Sou uma desenvolvedora front-end e estou começando a explorar o back-end. Estou sempre explorando novas ferramentas e linguagens para aprimorar minhas habilidades. Aqui, você encontrará alguns dos meus projetos mais recentes. Sinta-se à vontade para explorar!*
+*I’m a front-end developer currently exploring back-end development. Always eager to learn, I explore new tools and languages to improve my skills. Here, you’ll find some of my latest projects. Feel free to take a look around!*
 
 🔗 [LinkedIn](https://www.linkedin.com/in/vivianrc_c) | [GitHub](https://github.com/vivianrcc)
 
@@ -19,9 +19,7 @@
  
 <div align="center" style="margin-top: 20 px;">
 
-  *Amo cachorros e gatos! 🐶🐱💻 
-Eles me inspiram com sua curiosidade, e assim como eles, estou sempre pronta para aprender algo novo e me aventurar em diferentes tecnologias. 
-Você verá referências felinas por aqui! 🐾*
+  *I love dogs and cats! 🐶🐱💻 Their curiosity inspires me, and just like them, I’m always eager to learn something new and explore different technologies. You might notice a few feline references in my repositories! 🐾*
 
 </div>
 <br clear="left"/>
@@ -39,8 +37,7 @@ Você verá referências felinas por aqui! 🐾*
   <img align="center" alt="Vivi-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </p>
 
-*Conheço e utilizo diversas tecnologias e ferramentas para criar aplicações web dinâmicas e responsivas. 
-Estou sempre em busca de aprender mais e expandir meu conjunto de habilidades.*
+*I’m proficient in a variety of technologies and tools for building dynamic and responsive web applications. I’m constantly seeking to learn more and expand my skill set.*
 
 ---
 
@@ -53,7 +50,7 @@ Estou sempre em busca de aprender mais e expandir meu conjunto de habilidades.*
 
 ---
 
-✨ *Obrigado por visitar meu perfil! Estou sempre aberta a conversas sobre tecnologia e desenvolvimento! 😻* ✨
+✨ *Thank you for visiting my profile! I’m always open to conversations about technology and development! 😻🐈* ✨
 
 
   <img src="https://media1.tenor.com/m/nisaHYy8yAYAAAAd/besito-catlove.gif" alt="Cat Love GIF" />
